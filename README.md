@@ -1,5 +1,5 @@
 ## M-Stream
-An ES2105 re-write of Arounoda's *Meteor-Streams* project.
+A Cavalier ES2015 re-write of Arunoda's Meteor-Streams package.
 
 
 #### Usage
