@@ -2,7 +2,7 @@ Package.describe({
   name: 'mmack:m-stream',
   version: '0.0.1',
   summary: 'Cavalier re-write of Arounoda\'s Meteor-Streams package',
-  git: '',
+  git: 'https://github.com/10thfloor/meteor-streams-rewrite.git',
   documentation: 'README.md'
 });
 
