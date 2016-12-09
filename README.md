@@ -1,6 +1,6 @@
 ## M-Stream
 A Cavalier ES2015 re-write of Arunoda's Meteor-Streams package.
-
+Original source: https://github.com/arunoda/meteor-streams/tree/master/lib
 
 #### Usage
 
